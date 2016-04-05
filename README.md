@@ -14,13 +14,13 @@
 
 * Compilation
 
-        # repo init -u git://github.com/fire855/android.git -b cm-12.1
+        # repo init -u git://github.com/mahmudh456/android.git -b cm-12.1
         
         # repo sync
         
         # source build/envsetup.sh
         
-        # brunch cm_k1_turbo-userdebug
+        # brunch cm_RX4-userdebug
 
 # MTK
 
